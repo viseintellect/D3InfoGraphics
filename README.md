@@ -14,7 +14,7 @@ ex: On Mac/Yosemite, I downloaded the code repository to "/Library/WebServer/Doc
 using your browser and through the web server.
 ex: On Max/Yosemite, I opened the "localhost/D3InfoGraphics/index.html" URL in the browser
 
-4.Currently to demo each of the different graphs, at any point of time in the index.html file 
-enable/uncomment the reference to the respective .js files.
-ex:<!--<script src="js/treemap.js"></script>--> - this is disabled/commented
-<script src="js/map.js"></script> - currently enabled/uncommented
+4. Currently to demo each of the different graphs, at any point of time in the index.html file 
+enable/uncomment the reference to the respective .js file and disable/comment others.
+
+
